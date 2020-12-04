@@ -265,9 +265,9 @@ html {
 /*=======================================*/
 .section-info-routes {
     height: 500px;
-    background-image: url(/img/pic2.jpg);
+   /* background-image: url(/img/pic2.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;*/
     padding: 1px 0;
     border-top: 1px solid #e4e4e4;
 }
@@ -458,7 +458,6 @@ background-image: url('../img/viber.png');
 
 } 
 @media (max-width: 320px) {
-    body {background-color: tomato;}
     .items-routes-parent {
         height: 1800px;
     }
