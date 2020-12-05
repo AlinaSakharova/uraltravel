@@ -265,7 +265,7 @@ html {
 /*=======================================*/
 .section-info-routes {
     height: 500px;
-   /* background-image: url(/img/pic2.jpg);
+   /* background-image: url(img/pic2.jpg);
     background-repeat: no-repeat;
     background-size: cover;*/
     padding: 1px 0;
@@ -392,26 +392,26 @@ html {
 .footer-social-icon-mail {
     width: 26px;
     height: 24px;
-    background-image: url('../img/mail.png');
+    background-image: url('img/mail.png');
 
 }
 
 .footer-social-icon-instagram{
     width: 20px;
     height: 20px;
-    background-image: url('../img/instagram.png');
+    background-image: url('img/instagram.png');
 }
 
 .footer-social-icon-viber{
     width: 20px;
     height: 20px;
-background-image: url('../img/viber.png');
+background-image: url('img/viber.png');
 }
 
 .footer-social-icon-telegram {
     width: 20px;
     height: 18px;
-    background-image: url('../img/telegram.png');
+    background-image: url('img/telegram.png');
 }
 @media (max-width: 600px) {
    /* body {background-color: tomato;} */
